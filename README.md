@@ -66,7 +66,7 @@
 
 - Go to Buckets
 
-- Create a bucket named with your domain name "www.yourdomainname.com"
+- Create a bucket named with your domain name "www.your domain name.com"
 
 - You can select the region, I used "us-east-1"
 
@@ -89,7 +89,7 @@
 
 ###  Create a Policy for Static WebSite Hosting 
 
-- Go to your "www.yourdomainname.com" bucket 
+- Go to your "www.your domain name.com" bucket 
 
 - Upload Files named "index.html" , "error.html" and "your resume.pdf"  
 
@@ -141,7 +141,7 @@
 
 - Click hosted zones on the left hand menu
 
-- click your Domain name's public hosted zone "www.yourdomain.com"
+- click your Domain name's public hosted zone "www.your domain.com"
 
 - click "create record"
 
